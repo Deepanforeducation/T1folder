@@ -1,1 +1,1 @@
-pulling from github branch to or from main branch
+get from github branch to or from main branch
